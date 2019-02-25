@@ -1,0 +1,26 @@
+{
+  "name": "GraphQL-learn-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "graphpack",
+    "build": "graphpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artem-kochetkov-94/GraphQL-learn-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artem-kochetkov-94/GraphQL-learn-demo/issues"
+  },
+  "homepage": "https://github.com/artem-kochetkov-94/GraphQL-learn-demo#readme",
+  "devDependencies": {
+    "graphpack": "^1.0.6"
+  },
+  "dependencies": {}
+}
